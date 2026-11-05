@@ -1,0 +1,20 @@
+{
+  "name": "com.plyry.unity",
+  "version": "1.1.1",
+  "displayName": "Plyry AI Media",
+  "description": "Generate Plyry AI media in the Unity Editor or at runtime, then save results into project assets or persistent game storage.",
+  "unity": "2019.4",
+  "keywords": ["plyry", "ai", "media", "generation", "runtime", "editor"],
+  "samples": [
+    {
+      "displayName": "Quick Start",
+      "description": "A quick-start component showing how to connect a runtime panel to a generation target.",
+      "path": "Samples~/QuickStart"
+    }
+  ],
+  "author": {
+    "name": "Plyry",
+    "url": "https://plyry.com"
+  },
+  "license": "MIT"
+}
